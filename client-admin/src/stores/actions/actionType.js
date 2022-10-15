@@ -1,0 +1,14 @@
+export const BASE_URL = "https://boxflix.herokuapp.com";
+export const FETCH_MOVIES = "movies/fetchData";
+export const FETCH_GENRES = "genres/fetchData";
+export const FETCH_CASTS = "casts/fetchData";
+export const FETCH_MOVIE_BY_ID = "movies/fetchDataById";
+export const FETCH_GENRE_BY_ID = "movies/fetchDataById";
+export const ADD_MOVIES = "movies/addData";
+export const ADD_GENRES = "genres/addData";
+export const ADD_USERS = "users/addData";
+export const LOGIN_USERS = "users/login";
+export const EDIT_MOVIES = "movies/editData";
+export const EDIT_GENRES = "genres/editData";
+export const DELETE_MOVIES = "movies/deleteData";
+export const DELETE_GENRES = "genres/deleteData";
